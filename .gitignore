@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm/
+
+# Build artifacts
+dist/
+build/
+.wrangler/
+rust-probe/target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Local environment
+.env
+.env.local
+.dev.vars
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Generated reports (keep only the small representative probe-100)
+reports/data-stateglobe-65k-keepalive-get/
+reports/fast-smoke/
+reports/graph-input/
+reports/rust-final-cached/
+reports/rust-second-run/
+reports/rust-smoke/
+reports/rust-test-after-deploy/
+
+# Large CSV/JSON dumps (>5 MB)
+*.csv
+!reports/probe-100/**/*.csv

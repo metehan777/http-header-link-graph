@@ -1,0 +1,4902 @@
+[
+  {
+    "url": "https://data.stateglobe.com/syria/digital-ad-spending-statistics",
+    "status": 200,
+    "elapsed_ms": 271.5,
+    "error": null,
+    "links_header_bytes": 1455,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/digital-advertising"
+    ],
+    "headings_header_bytes": 534,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Digital Ad Spending Statistics in Syria (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main digital advertising platforms used in Syria?"
+      },
+      {
+        "l": 3,
+        "t": "How is the digital ad market expected to evolve in Syria?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf89a1a14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/thailand/cross-border-ecommerce-statistics",
+    "status": 200,
+    "elapsed_ms": 199.5,
+    "error": null,
+    "links_header_bytes": 1542,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/ecommerce"
+    ],
+    "headings_header_bytes": 598,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Cross-Border E-commerce Statistics in Thailand (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main challenges faced by cross-border e-commerce in Thailand?"
+      },
+      {
+        "l": 3,
+        "t": "How is digital infrastructure impacting cross-border e-commerce growth in Thailand?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf89a1d14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/united-states/internet-penetration-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 265.5,
+    "error": null,
+    "links_header_bytes": 1683,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/internet-usage"
+    ],
+    "headings_header_bytes": 572,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Internet Penetration Rate and Usage Statistics in United States (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the current internet penetration rate in the US?"
+      },
+      {
+        "l": 3,
+        "t": "How fast is internet speed expected to be in the US by 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf89a1e14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/ethiopia/mobile-video-consumption-statistics",
+    "status": 200,
+    "elapsed_ms": 265.5,
+    "error": null,
+    "links_header_bytes": 1583,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/mobile-marketing"
+    ],
+    "headings_header_bytes": 551,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Mobile Video Consumption and Marketing Statistics in Ethiopia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is driving mobile video consumption in Ethiopia?"
+      },
+      {
+        "l": 3,
+        "t": "How does mobile marketing impact Ethiopian businesses?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf89a1f14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/bolivia/cybersecurity-workforce-statistics",
+    "status": 200,
+    "elapsed_ms": 272.5,
+    "error": null,
+    "links_header_bytes": 1546,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cybersecurity"
+    ],
+    "headings_header_bytes": 539,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Cybersecurity Workforce Statistics in Bolivia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are Bolivia's main cybersecurity challenges in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How is Bolivia improving its cybersecurity infrastructure?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf89a2114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/iceland/social-commerce-demographics-statistics",
+    "status": 200,
+    "elapsed_ms": 278.6,
+    "error": null,
+    "links_header_bytes": 1628,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-commerce"
+    ],
+    "headings_header_bytes": 338,
+    "headings_count": 6,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Social Commerce Demographics in Iceland (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      },
+      {
+        "l": 4,
+        "t": "StateGlobe Research"
+      },
+      {
+        "l": 3,
+        "t": "This Statistic in Other Countries"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "4": 2,
+      "3": 2
+    },
+    "cf_ray": "9f574bf89a2514f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/georgia/email-deliverability-statistics",
+    "status": 200,
+    "elapsed_ms": 210.7,
+    "error": null,
+    "links_header_bytes": 1500,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/email-marketing"
+    ],
+    "headings_header_bytes": 540,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Email Deliverability Statistics in Georgia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors influence email deliverability in Georgia?"
+      },
+      {
+        "l": 3,
+        "t": "How can businesses improve their email marketing ROI in Georgia?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa2614f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/belgium/ssl-adoption-statistics",
+    "status": 200,
+    "elapsed_ms": 266.6,
+    "error": null,
+    "links_header_bytes": 1376,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/website-technology"
+    ],
+    "headings_header_bytes": 522,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "SSL Adoption Statistics in Belgium (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What percentage of Belgian websites use SSL certificates in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How does SSL adoption impact Belgian e-commerce?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa2914f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/tanzania/social-media-roi-statistics",
+    "status": 200,
+    "elapsed_ms": 326.6,
+    "error": null,
+    "links_header_bytes": 1462,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-media-marketing"
+    ],
+    "headings_header_bytes": 559,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Social Media ROI Statistics in Tanzania (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main social media platform used by Tanzanian brands in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How has social media marketing ROI changed in Tanzania by 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa2c14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/philippines/website-builder-usage-statistics",
+    "status": 200,
+    "elapsed_ms": 261.1,
+    "error": null,
+    "links_header_bytes": 1591,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cms-website-builder"
+    ],
+    "headings_header_bytes": 566,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Website Builder Usage Statistics in Philippines (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular website builder in the Philippines?"
+      },
+      {
+        "l": 3,
+        "t": "How has mobile usage impacted website development in the Philippines?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa2f14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/south-ossetia/push-notification-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 274.0,
+    "error": null,
+    "links_header_bytes": 1638,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/mobile-marketing"
+    ],
+    "headings_header_bytes": 615,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "South Ossetia Push Notification Rate & Mobile Marketing Statistics in 2026"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver of mobile marketing growth in South Ossetia in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How effective are push notifications for marketing in South Ossetia?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa3514f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/tanzania/ad-tech-market-size-statistics",
+    "status": 200,
+    "elapsed_ms": 326.8,
+    "error": null,
+    "links_header_bytes": 1506,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/digital-advertising"
+    ],
+    "headings_header_bytes": 535,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Ad Tech Market Size in Tanzania (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main digital advertising platforms in Tanzania?"
+      },
+      {
+        "l": 3,
+        "t": "How is mobile penetration impacting Tanzania's digital ad market?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa3914f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/antigua-and-barbuda/ad-tech-market-size-statistics",
+    "status": 200,
+    "elapsed_ms": 326.9,
+    "error": null,
+    "links_header_bytes": 1680,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/digital-advertising"
+    ],
+    "headings_header_bytes": 606,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Ad Tech Market Size Statistics in Antigua and Barbuda (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver of digital ad growth in Antigua and Barbuda?"
+      },
+      {
+        "l": 3,
+        "t": "How does Antigua and Barbuda compare to regional digital advertising markets?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa3a14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/nigeria/bounce-rate-benchmarks-statistics",
+    "status": 200,
+    "elapsed_ms": 276.3,
+    "error": null,
+    "links_header_bytes": 1530,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/web-analytics"
+    ],
+    "headings_header_bytes": 502,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Nigeria Bounce Rate Benchmarks in 2026"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors influence bounce rates in Nigeria?"
+      },
+      {
+        "l": 3,
+        "t": "How can Nigerian businesses reduce their bounce rates?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa3c14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/malawi/aws-market-share-statistics",
+    "status": 200,
+    "elapsed_ms": 270.6,
+    "error": null,
+    "links_header_bytes": 1419,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cloud-computing"
+    ],
+    "headings_header_bytes": 475,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "AWS Market Share in Malawi (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the current AWS market share in Malawi?"
+      },
+      {
+        "l": 3,
+        "t": "How many AWS data centers are in Malawi?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa3e14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/somalia/social-media-engagement-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 330.5,
+    "error": null,
+    "links_header_bytes": 1638,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-media-marketing"
+    ],
+    "headings_header_bytes": 570,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Social Media Engagement Rate Statistics in Somalia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular social media platform in Somalia in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How much do Somali businesses spend on digital advertising in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf8aa4114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/spain/responsive-design-adoption-statistics",
+    "status": 200,
+    "elapsed_ms": 345.1,
+    "error": null,
+    "links_header_bytes": 1566,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/website-technology"
+    ],
+    "headings_header_bytes": 552,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Responsive Design Adoption Statistics in Spain (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What percentage of Spanish websites are mobile-friendly in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How has mobile web traffic influenced website design in Spain?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf9dd7114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/canada/hosting-uptime-comparison-statistics",
+    "status": 200,
+    "elapsed_ms": 338.5,
+    "error": null,
+    "links_header_bytes": 1562,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/domain-hosting"
+    ],
+    "headings_header_bytes": 560,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Hosting Uptime Comparison & Domain & Hosting Statistics in Canada (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main factor influencing hosting uptime in Canada?"
+      },
+      {
+        "l": 3,
+        "t": "How has cloud hosting impacted the Canadian market?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bf9ed9d14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/thailand/ecommerce-conversion-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 287.2,
+    "error": null,
+    "links_header_bytes": 1590,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/ecommerce"
+    ],
+    "headings_header_bytes": 567,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "E-commerce Conversion Rate Statistics in Thailand (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver of e-commerce growth in Thailand in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How has consumer behavior changed in Thailand's e-commerce sector?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa4e7c14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/kazakhstan/multi-cloud-strategy-statistics",
+    "status": 200,
+    "elapsed_ms": 285.6,
+    "error": null,
+    "links_header_bytes": 1552,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cloud-computing"
+    ],
+    "headings_header_bytes": 548,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Multi Cloud Strategy Statistics in Kazakhstan (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main benefits of multi-cloud strategies in Kazakhstan?"
+      },
+      {
+        "l": 3,
+        "t": "How is Kazakhstan supporting cloud computing growth?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5e9014f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/latvia/fiber-optic-coverage-statistics",
+    "status": 200,
+    "elapsed_ms": 283.4,
+    "error": null,
+    "links_header_bytes": 1482,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/internet-usage"
+    ],
+    "headings_header_bytes": 566,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Fiber Optic Coverage and Internet Usage Statistics in Latvia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the current state of fiber optic infrastructure in Latvia?"
+      },
+      {
+        "l": 3,
+        "t": "How prevalent is internet usage among Latvians in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5e9114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/samoa/podcast-listener-growth-statistics",
+    "status": 200,
+    "elapsed_ms": 232.4,
+    "error": null,
+    "links_header_bytes": 1510,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/podcast-audio"
+    ],
+    "headings_header_bytes": 504,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Podcast Listener Growth Statistics in Samoa (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is driving podcast growth in Samoa?"
+      },
+      {
+        "l": 3,
+        "t": "Which genres are most popular among Samoan listeners?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5e9314f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/central-african-republic/pinterest-shopping-statistics",
+    "status": 200,
+    "elapsed_ms": 270.8,
+    "error": null,
+    "links_header_bytes": 1754,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-commerce"
+    ],
+    "headings_header_bytes": 628,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Pinterest Shopping and Social Commerce Statistics in Central African Republic (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver of Pinterest shopping growth in CAR?"
+      },
+      {
+        "l": 3,
+        "t": "How does social commerce revenue in CAR compare to neighboring countries?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5e9514f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/united-states/featured-snippet-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 271.6,
+    "error": null,
+    "links_header_bytes": 1618,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/search-engine"
+    ],
+    "headings_header_bytes": 551,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Featured Snippet Rate Statistics in United States (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors influence featured snippet rates in the US?"
+      },
+      {
+        "l": 3,
+        "t": "How can businesses optimize for featured snippets in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5e9714f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/cape-verde/podcast-listener-growth-statistics",
+    "status": 200,
+    "elapsed_ms": 275.1,
+    "error": null,
+    "links_header_bytes": 1598,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/podcast-audio"
+    ],
+    "headings_header_bytes": 558,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Podcast Listener Growth Statistics in Cape Verde (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular podcast genre in Cape Verde?"
+      },
+      {
+        "l": 3,
+        "t": "How has smartphone usage influenced podcast consumption in Cape Verde?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5e9814f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/sri-lanka/cms-performance-comparison-statistics",
+    "status": 200,
+    "elapsed_ms": 274.0,
+    "error": null,
+    "links_header_bytes": 1636,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cms-website-builder"
+    ],
+    "headings_header_bytes": 520,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "CMS Performance Comparison Statistics in Sri Lanka (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular CMS platform in Sri Lanka?"
+      },
+      {
+        "l": 3,
+        "t": "How fast are websites loading in Sri Lanka?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5e9c14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/chile/affiliate-content-type-statistics",
+    "status": 200,
+    "elapsed_ms": 274.3,
+    "error": null,
+    "links_header_bytes": 1503,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/affiliate-marketing"
+    ],
+    "headings_header_bytes": 554,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Affiliate Content Type Statistics in Chile (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver of affiliate marketing growth in Chile?"
+      },
+      {
+        "l": 3,
+        "t": "How much revenue does affiliate marketing generate in Chile in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5ea614f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/macau/analytics-compliance-statistics",
+    "status": 200,
+    "elapsed_ms": 335.7,
+    "error": null,
+    "links_header_bytes": 1463,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/web-analytics"
+    ],
+    "headings_header_bytes": 548,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Analytics Compliance Statistics in Macau (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are Macau's key web analytics compliance challenges in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How is mobile usage impacting web analytics strategies in Macau?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfa5ea714f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/peru/podcast-ad-revenue-statistics",
+    "status": 200,
+    "elapsed_ms": 287.7,
+    "error": null,
+    "links_header_bytes": 1410,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/podcast-audio"
+    ],
+    "headings_header_bytes": 540,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Podcast Ad Revenue Statistics in Peru (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver of podcast ad revenue growth in Peru?"
+      },
+      {
+        "l": 3,
+        "t": "How does podcast advertising compare to traditional media in Peru?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfaaf6714f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/antigua-and-barbuda/branded-podcast-roi-statistics",
+    "status": 200,
+    "elapsed_ms": 240.0,
+    "error": null,
+    "links_header_bytes": 1672,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/podcast-audio"
+    ],
+    "headings_header_bytes": 584,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Branded Podcast ROI Statistics in Antigua and Barbuda (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular podcast genre in Antigua and Barbuda?"
+      },
+      {
+        "l": 3,
+        "t": "How can brands improve ROI through podcasts in Antigua and Barbuda?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfaaf6a14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/togo/social-commerce-categories-statistics",
+    "status": 200,
+    "elapsed_ms": 414.0,
+    "error": null,
+    "links_header_bytes": 1544,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-commerce"
+    ],
+    "headings_header_bytes": 548,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Social Commerce Categories Statistics in Togo (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main social media platforms used for commerce in Togo?"
+      },
+      {
+        "l": 3,
+        "t": "How are local businesses adopting social commerce in Togo?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfaaf6f14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/slovakia/crm-integration-statistics",
+    "status": 200,
+    "elapsed_ms": 278.1,
+    "error": null,
+    "links_header_bytes": 1444,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 600,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "CRM Integration and Marketing Automation Statistics in Slovakia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main benefit of CRM integration for Slovak companies?"
+      },
+      {
+        "l": 3,
+        "t": "How is marketing automation impacting Slovakia's digital marketing landscape?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfaaf7a14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/eritrea/featured-snippet-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 204.5,
+    "error": null,
+    "links_header_bytes": 1514,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/search-engine"
+    ],
+    "headings_header_bytes": 522,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Featured Snippet Rate Statistics in Eritrea (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the internet penetration rate in Eritrea in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "Which search engine is most popular in Eritrea?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfbb96914f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/malawi/podcast-listener-demographics-statistics",
+    "status": 200,
+    "elapsed_ms": 341.6,
+    "error": null,
+    "links_header_bytes": 1624,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/podcast-audio"
+    ],
+    "headings_header_bytes": 548,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Podcast Listener Demographics Statistics in Malawi (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular podcast genre in Malawi 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How is podcast consumption expected to evolve in Malawi by 2030?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc0a1c14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/paraguay/cloud-adoption-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 334.0,
+    "error": null,
+    "links_header_bytes": 1502,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cloud-computing"
+    ],
+    "headings_header_bytes": 551,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Cloud Adoption Rate Statistics in Paraguay (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main benefits of cloud adoption for Paraguayan businesses?"
+      },
+      {
+        "l": 3,
+        "t": "How is the Paraguayan government promoting cloud usage?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc0a2014f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/canada/native-advertising-growth-statistics",
+    "status": 200,
+    "elapsed_ms": 328.7,
+    "error": null,
+    "links_header_bytes": 1568,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/digital-advertising"
+    ],
+    "headings_header_bytes": 346,
+    "headings_count": 6,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Native Advertising Growth Statistics in Canada (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      },
+      {
+        "l": 4,
+        "t": "StateGlobe Research"
+      },
+      {
+        "l": 3,
+        "t": "This Statistic in Other Countries"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "4": 2,
+      "3": 2
+    },
+    "cf_ray": "9f574bfc0a2714f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/iran/domain-aftermarket-statistics",
+    "status": 200,
+    "elapsed_ms": 235.8,
+    "error": null,
+    "links_header_bytes": 1414,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/domain-hosting"
+    ],
+    "headings_header_bytes": 522,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Domain Aftermarket & Hosting Statistics in Iran (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular domain extension in Iran?"
+      },
+      {
+        "l": 3,
+        "t": "How has Iran's domain market changed in recent years?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc0a3114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/lebanon/video-ad-completion-statistics",
+    "status": 200,
+    "elapsed_ms": 328.2,
+    "error": null,
+    "links_header_bytes": 1483,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/video-marketing"
+    ],
+    "headings_header_bytes": 551,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Video Ad Completion Statistics in Lebanon (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the average video ad completion rate in Lebanon in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "What percentage of video views in Lebanon are on mobile devices?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc0a3514f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/chile/affiliate-mobile-share-statistics",
+    "status": 200,
+    "elapsed_ms": 335.1,
+    "error": null,
+    "links_header_bytes": 1503,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/affiliate-marketing"
+    ],
+    "headings_header_bytes": 586,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Affiliate Mobile Share Statistics in Chile (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors are driving mobile affiliate marketing growth in Chile?"
+      },
+      {
+        "l": 3,
+        "t": "How does Chile compare to other Latin American countries in mobile affiliate marketing?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc0a3d14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/somalia/podcast-engagement-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 192.2,
+    "error": null,
+    "links_header_bytes": 1546,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/podcast-audio"
+    ],
+    "headings_header_bytes": 540,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Podcast Engagement Rate Statistics in Somalia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main factor driving podcast growth in Somalia?"
+      },
+      {
+        "l": 3,
+        "t": "How are podcasts influencing Somali culture and education?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc0a4014f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/senegal/retargeting-effectiveness-statistics",
+    "status": 200,
+    "elapsed_ms": 322.4,
+    "error": null,
+    "links_header_bytes": 1566,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/ppc-advertising"
+    ],
+    "headings_header_bytes": 562,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Retargeting Effectiveness Statistics in Senegal (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the average ROI on retargeting campaigns in Senegal?"
+      },
+      {
+        "l": 3,
+        "t": "Which digital platforms are most effective for retargeting in Senegal?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc0a4314f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/panama/average-order-value-statistics",
+    "status": 200,
+    "elapsed_ms": 398.6,
+    "error": null,
+    "links_header_bytes": 1459,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/ecommerce"
+    ],
+    "headings_header_bytes": 528,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Average Order Value Statistics in Panama (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors are driving e-commerce growth in Panama in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How can retailers reduce cart abandonment in Panama?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc1a4c14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/jordan/affiliate-commission-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 331.0,
+    "error": null,
+    "links_header_bytes": 1568,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/affiliate-marketing"
+    ],
+    "headings_header_bytes": 543,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Affiliate Commission Rate Statistics in Jordan (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the typical affiliate commission rate in Jordan?"
+      },
+      {
+        "l": 3,
+        "t": "How is the digital economy expected to grow in Jordan by 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc1a4f14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/uzbekistan/internet-usage-by-age-statistics",
+    "status": 200,
+    "elapsed_ms": 217.2,
+    "error": null,
+    "links_header_bytes": 1567,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/internet-usage"
+    ],
+    "headings_header_bytes": 567,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Internet Usage by Age Statistics in Uzbekistan (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular online activity among Uzbek youth in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How is internet access improving among the elderly in Uzbekistan?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc2a9014f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/angola/ppc-budget-allocation-statistics",
+    "status": 200,
+    "elapsed_ms": 340.5,
+    "error": null,
+    "links_header_bytes": 1500,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/ppc-advertising"
+    ],
+    "headings_header_bytes": 540,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "PPC Budget Allocation Statistics in Angola (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main platform for PPC advertising in Angola?"
+      },
+      {
+        "l": 3,
+        "t": "How is digital advertising expected to evolve in Angola by 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc6b2814f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/argentina/cloud-cost-optimization-statistics",
+    "status": 200,
+    "elapsed_ms": 267.8,
+    "error": null,
+    "links_header_bytes": 1580,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cloud-computing"
+    ],
+    "headings_header_bytes": 583,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Cloud Cost Optimization Statistics in Argentina (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main strategies for cloud cost optimization in Argentina?"
+      },
+      {
+        "l": 3,
+        "t": "How is cloud adoption impacting small and medium enterprises in Argentina?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc7b3814f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/egypt/social-commerce-categories-statistics",
+    "status": 200,
+    "elapsed_ms": 427.8,
+    "error": null,
+    "links_header_bytes": 1562,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-commerce"
+    ],
+    "headings_header_bytes": 532,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Social Commerce Categories Statistics in Egypt (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the most popular social commerce categories in Egypt?"
+      },
+      {
+        "l": 3,
+        "t": "How is social commerce expected to grow in Egypt?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfc7b3b14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/democratic-republic-of-congo/marketing-automation-tools-statistics",
+    "status": 200,
+    "elapsed_ms": 339.7,
+    "error": null,
+    "links_header_bytes": 1967,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 662,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Marketing Automation Tools Statistics in Democratic Republic of Congo (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main benefits of marketing automation for Congolese businesses?"
+      },
+      {
+        "l": 3,
+        "t": "How is marketing automation impacting the economy of the Democratic Republic of Congo?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfd0c9414f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/south-africa/affiliate-content-type-statistics",
+    "status": 200,
+    "elapsed_ms": 302.0,
+    "error": null,
+    "links_header_bytes": 1624,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/affiliate-marketing"
+    ],
+    "headings_header_bytes": 595,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Affiliate Content Type Statistics in South Africa (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the most popular affiliate marketing niches in South Africa?"
+      },
+      {
+        "l": 3,
+        "t": "How has mobile traffic impacted affiliate marketing strategies in South Africa?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfd3d0e14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/madagascar/backlink-profile-statistics",
+    "status": 200,
+    "elapsed_ms": 300.4,
+    "error": null,
+    "links_header_bytes": 1472,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/seo"
+    ],
+    "headings_header_bytes": 539,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Backlink Profile Statistics in Madagascar (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the current trend in Malagasy backlink quality?"
+      },
+      {
+        "l": 3,
+        "t": "How has mobile optimization affected backlinks in Madagascar?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfd3d1114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/zimbabwe/connected-tv-advertising-statistics",
+    "status": 200,
+    "elapsed_ms": 280.4,
+    "error": null,
+    "links_header_bytes": 1587,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/digital-advertising"
+    ],
+    "headings_header_bytes": 574,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Connected TV Advertising Statistics in Zimbabwe (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the growth outlook for connected TV advertising in Zimbabwe?"
+      },
+      {
+        "l": 3,
+        "t": "Which demographics are most engaged with connected TV ads in Zimbabwe?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfd8dbe14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/burundi/mobile-ad-spending-statistics",
+    "status": 200,
+    "elapsed_ms": 256.3,
+    "error": null,
+    "links_header_bytes": 1470,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/mobile-marketing"
+    ],
+    "headings_header_bytes": 512,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Mobile Ad Spending Statistics in Burundi (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is driving mobile ad growth in Burundi?"
+      },
+      {
+        "l": 3,
+        "t": "How effective are mobile marketing campaigns in Burundi?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfd8dc114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/ecuador/ecommerce-conversion-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 250.2,
+    "error": null,
+    "links_header_bytes": 1572,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/ecommerce"
+    ],
+    "headings_header_bytes": 560,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "E-commerce Conversion Rate Statistics in Ecuador (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors are improving e-commerce conversion rates in Ecuador?"
+      },
+      {
+        "l": 3,
+        "t": "How is mobile commerce influencing shopping habits in Ecuador?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe1edf14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/india/search-query-volume-statistics",
+    "status": 200,
+    "elapsed_ms": 257.8,
+    "error": null,
+    "links_header_bytes": 1446,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/search-engine"
+    ],
+    "headings_header_bytes": 515,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Search Query Volume and Search Engine Statistics in India (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the primary search engine used in India?"
+      },
+      {
+        "l": 3,
+        "t": "How has mobile search evolved in India?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe1ee114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/morocco/mobile-payment-adoption-statistics",
+    "status": 200,
+    "elapsed_ms": 249.3,
+    "error": null,
+    "links_header_bytes": 1550,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/mobile-marketing"
+    ],
+    "headings_header_bytes": 499,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Mobile Payment Adoption in Morocco (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is driving mobile payment adoption in Morocco?"
+      },
+      {
+        "l": 3,
+        "t": "How effective is mobile marketing in Morocco?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe1ee914f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/tajikistan/email-marketing-revenue-statistics",
+    "status": 200,
+    "elapsed_ms": 249.0,
+    "error": null,
+    "links_header_bytes": 1600,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/email-marketing"
+    ],
+    "headings_header_bytes": 579,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Email Marketing Revenue Statistics in Tajikistan (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main challenge for email marketers in Tajikistan in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How are businesses in Tajikistan optimizing email marketing campaigns?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe1eeb14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/bahamas/affiliate-program-growth-statistics",
+    "status": 200,
+    "elapsed_ms": 241.2,
+    "error": null,
+    "links_header_bytes": 1570,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/affiliate-marketing"
+    ],
+    "headings_header_bytes": 542,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Affiliate Program Growth Statistics in Bahamas (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors are driving affiliate marketing growth in Bahamas?"
+      },
+      {
+        "l": 3,
+        "t": "How can new affiliates succeed in the Bahamas market?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe2efb14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/denmark/automated-email-performance-statistics",
+    "status": 200,
+    "elapsed_ms": 341.6,
+    "error": null,
+    "links_header_bytes": 1619,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 563,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Automated Email Performance Statistics in Denmark (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors contribute to Denmark's high email open rates in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How are Danish companies leveraging automation to improve ROI?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe2f0214f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/rwanda/seo-industry-revenue-statistics",
+    "status": 200,
+    "elapsed_ms": 242.2,
+    "error": null,
+    "links_header_bytes": 1467,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/seo"
+    ],
+    "headings_header_bytes": 574,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "SEO Industry Revenue Statistics in Rwanda (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the projected revenue of the SEO industry in Rwanda for 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How is internet penetration influencing the growth of SEO services in Rwanda?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe2f0714f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/south-africa/marketing-automation-spending-statistics",
+    "status": 200,
+    "elapsed_ms": 338.8,
+    "error": null,
+    "links_header_bytes": 1738,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 588,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Marketing Automation Spending Statistics in South Africa (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main benefit of marketing automation in South Africa?"
+      },
+      {
+        "l": 3,
+        "t": "How is marketing automation expected to evolve in South Africa by 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe2f0914f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/suriname/ad-blocking-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 274.2,
+    "error": null,
+    "links_header_bytes": 1459,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/digital-advertising"
+    ],
+    "headings_header_bytes": 530,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Ad Blocking Rate Statistics in Suriname (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main reason for high ad blocking in Suriname?"
+      },
+      {
+        "l": 3,
+        "t": "How are advertisers coping with ad blocking in Suriname?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe8fd414f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/venezuela/social-commerce-conversion-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 274.3,
+    "error": null,
+    "links_header_bytes": 1710,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-commerce"
+    ],
+    "headings_header_bytes": 576,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Social Commerce Conversion Rate Statistics in Venezuela (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main social media platform used for commerce in Venezuela?"
+      },
+      {
+        "l": 3,
+        "t": "How is social commerce impacting Venezuela's overall economy?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bfe8fd714f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/andorra/audio-streaming-market-statistics",
+    "status": 200,
+    "elapsed_ms": 367.1,
+    "error": null,
+    "links_header_bytes": 1530,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/podcast-audio"
+    ],
+    "headings_header_bytes": 556,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Audio Streaming Market Statistics in Andorra (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular genre of podcasts in Andorra?"
+      },
+      {
+        "l": 3,
+        "t": "How has the COVID-19 pandemic influenced audio streaming habits in Andorra?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bff191214f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/gambia/affiliate-marketing-roi-statistics",
+    "status": 200,
+    "elapsed_ms": 354.5,
+    "error": null,
+    "links_header_bytes": 1536,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/affiliate-marketing"
+    ],
+    "headings_header_bytes": 343,
+    "headings_count": 6,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Affiliate Marketing ROI Statistics in Gambia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      },
+      {
+        "l": 4,
+        "t": "StateGlobe Research"
+      },
+      {
+        "l": 3,
+        "t": "This Statistic in Other Countries"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "4": 2,
+      "3": 2
+    },
+    "cf_ray": "9f574bff191414f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/madagascar/hybrid-cloud-usage-statistics",
+    "status": 200,
+    "elapsed_ms": 198.2,
+    "error": null,
+    "links_header_bytes": 1520,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cloud-computing"
+    ],
+    "headings_header_bytes": 528,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Hybrid Cloud Usage Statistics in Madagascar (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is driving hybrid cloud adoption in Madagascar?"
+      },
+      {
+        "l": 3,
+        "t": "How does Madagascar's cloud market compare regionally?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bff291714f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/equatorial-guinea/tld-market-share-statistics",
+    "status": 200,
+    "elapsed_ms": 200.8,
+    "error": null,
+    "links_header_bytes": 1608,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/domain-hosting"
+    ],
+    "headings_header_bytes": 575,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Equatorial Guinea TLD Market Share & Domain Statistics in 2026"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular domain extension in Equatorial Guinea?"
+      },
+      {
+        "l": 3,
+        "t": "How affordable is domain registration in Equatorial Guinea?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bff291a14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/bahrain/ransomware-attacks-statistics",
+    "status": 200,
+    "elapsed_ms": 353.7,
+    "error": null,
+    "links_header_bytes": 1466,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cybersecurity"
+    ],
+    "headings_header_bytes": 555,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Ransomware Attacks Statistics in Bahrain (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the most common ransomware types in Bahrain in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How has Bahrain improved its cybersecurity defenses against ransomware?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bff291c14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/pakistan/cms-security-vulnerabilities-statistics",
+    "status": 200,
+    "elapsed_ms": 346.0,
+    "error": null,
+    "links_header_bytes": 1651,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cms-website-builder"
+    ],
+    "headings_header_bytes": 554,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "CMS Security Vulnerabilities Statistics in Pakistan (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the most common CMS vulnerabilities in Pakistan in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How can Pakistani website owners improve CMS security?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bff497114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/indonesia/pageview-trends-statistics",
+    "status": 200,
+    "elapsed_ms": 294.8,
+    "error": null,
+    "links_header_bytes": 1452,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/web-analytics"
+    ],
+    "headings_header_bytes": 531,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Indonesia Web Analytics Statistics in 2026"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver of web traffic in Indonesia in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How has user engagement changed in Indonesia's web usage?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bffaa7614f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/india/data-breach-cost-statistics",
+    "status": 200,
+    "elapsed_ms": 363.2,
+    "error": null,
+    "links_header_bytes": 1398,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cybersecurity"
+    ],
+    "headings_header_bytes": 539,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Cybersecurity and Data Breach Statistics in India (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the average cost of a data breach in India in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How prevalent are ransomware attacks in India in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bffaa7914f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/nauru/marketing-automation-adoption-statistics",
+    "status": 200,
+    "elapsed_ms": 284.4,
+    "error": null,
+    "links_header_bytes": 1616,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 554,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Marketing Automation Statistics in Nauru (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main barriers to marketing automation adoption in Nauru?"
+      },
+      {
+        "l": 3,
+        "t": "How is marketing automation impacting small businesses in Nauru?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bffaa8014f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/lithuania/zero-click-search-statistics",
+    "status": 200,
+    "elapsed_ms": 278.3,
+    "error": null,
+    "links_header_bytes": 1484,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/search-engine"
+    ],
+    "headings_header_bytes": 511,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Zero-Click Search Statistics in Lithuania (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is zero-click search in Lithuania?"
+      },
+      {
+        "l": 3,
+        "t": "How is voice search affecting Lithuanian search behavior?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bffaa8414f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/honduras/cloud-hosting-growth-statistics",
+    "status": 200,
+    "elapsed_ms": 286.0,
+    "error": null,
+    "links_header_bytes": 1516,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/domain-hosting"
+    ],
+    "headings_header_bytes": 556,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Cloud Hosting Growth Statistics in Honduras (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver behind cloud hosting growth in Honduras?"
+      },
+      {
+        "l": 3,
+        "t": "How many businesses in Honduras are using cloud services in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bffaa8714f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/poland/facebook-marketing-statistics",
+    "status": 200,
+    "elapsed_ms": 265.9,
+    "error": null,
+    "links_header_bytes": 1460,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-media-marketing"
+    ],
+    "headings_header_bytes": 547,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Facebook Marketing Statistics in Poland (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the projected Facebook user base in Poland for 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How much do Polish businesses spend on Facebook advertising in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574bffaa9214f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/latvia/internet-freedom-index-statistics",
+    "status": 200,
+    "elapsed_ms": 266.8,
+    "error": null,
+    "links_header_bytes": 1514,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/internet-usage"
+    ],
+    "headings_header_bytes": 539,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Internet Freedom Index Statistics in Latvia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "How has Latvia's internet freedom improved by 2026?"
+      },
+      {
+        "l": 3,
+        "t": "What factors contribute to Latvia's high internet penetration rate?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c004bbc14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/argentina/featured-snippet-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 362.7,
+    "error": null,
+    "links_header_bytes": 1546,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/search-engine"
+    ],
+    "headings_header_bytes": 548,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Argentina Search Engine & Snippet Statistics in 2026"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the dominant search engine in Argentina in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How prevalent are featured snippets in Argentine search results?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c004bc914f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/democratic-republic-of-congo/domain-aftermarket-statistics",
+    "status": 200,
+    "elapsed_ms": 363.5,
+    "error": null,
+    "links_header_bytes": 1831,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/domain-hosting"
+    ],
+    "headings_header_bytes": 612,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Domain Aftermarket & Hosting Statistics in Democratic Republic of Congo (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular domain extension in the DRC?"
+      },
+      {
+        "l": 3,
+        "t": "How has domain registration grown in the DRC over the past five years?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c004bcc14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/paraguay/search-engine-market-share-statistics",
+    "status": 200,
+    "elapsed_ms": 266.2,
+    "error": null,
+    "links_header_bytes": 1611,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/search-engine"
+    ],
+    "headings_header_bytes": 542,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Search Engine Market Share Statistics in Paraguay (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the most popular search engine in Paraguay in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How are Paraguayans accessing search engines in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c004bcf14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/djibouti/lead-scoring-effectiveness-statistics",
+    "status": 200,
+    "elapsed_ms": 252.9,
+    "error": null,
+    "links_header_bytes": 1620,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 555,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Lead Scoring Effectiveness Statistics in Djibouti (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main benefit of lead scoring for Djibouti businesses?"
+      },
+      {
+        "l": 3,
+        "t": "How is marketing automation impacting Djibouti's economy?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c005c1114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/liechtenstein/cms-migration-trends-statistics",
+    "status": 200,
+    "elapsed_ms": 315.4,
+    "error": null,
+    "links_header_bytes": 1610,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cms-website-builder"
+    ],
+    "headings_header_bytes": 575,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "CMS Migration Trends and Website Builder Statistics in Liechtenstein (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main reasons for CMS migration in Liechtenstein?"
+      },
+      {
+        "l": 3,
+        "t": "Which CMS platform is most popular in Liechtenstein?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c006c2d14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/mali/crm-integration-statistics",
+    "status": 200,
+    "elapsed_ms": 260.4,
+    "error": null,
+    "links_header_bytes": 1375,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 534,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "CRM Integration & Marketing Automation Statistics in Mali (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver for CRM adoption in Mali in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How is marketing automation evolving in Mali?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c015e5414f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/qatar/crm-integration-statistics",
+    "status": 200,
+    "elapsed_ms": 253.1,
+    "error": null,
+    "links_header_bytes": 1392,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 572,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "CRM Integration and Marketing Automation Statistics in Qatar (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the primary benefit of CRM integration for Qatari businesses?"
+      },
+      {
+        "l": 3,
+        "t": "How is marketing automation impacting businesses in Qatar?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c015e5814f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/zambia/user-research-spending-statistics",
+    "status": 200,
+    "elapsed_ms": 253.3,
+    "error": null,
+    "links_header_bytes": 1519,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/conversion-rate-ux"
+    ],
+    "headings_header_bytes": 546,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "User Research Spending and UX Statistics in Zambia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main focus of user research in Zambia in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How has digital penetration impacted businesses in Zambia?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c015e5b14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/rwanda/social-media-ad-spend-statistics",
+    "status": 200,
+    "elapsed_ms": 248.8,
+    "error": null,
+    "links_header_bytes": 1508,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-media-marketing"
+    ],
+    "headings_header_bytes": 340,
+    "headings_count": 6,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Social Media Ad Spend Statistics in Rwanda (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      },
+      {
+        "l": 4,
+        "t": "StateGlobe Research"
+      },
+      {
+        "l": 3,
+        "t": "This Statistic in Other Countries"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "4": 2,
+      "3": 2
+    },
+    "cf_ray": "9f574c016e7114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/croatia/multi-cloud-strategy-statistics",
+    "status": 200,
+    "elapsed_ms": 330.0,
+    "error": null,
+    "links_header_bytes": 1500,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cloud-computing"
+    ],
+    "headings_header_bytes": 559,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Multi Cloud Strategy Statistics in Croatia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main benefit of multi-cloud strategies for Croatian businesses?"
+      },
+      {
+        "l": 3,
+        "t": "How is Croatia expanding its cloud infrastructure in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c016e7514f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/south-ossetia/shopify-store-growth-statistics",
+    "status": 200,
+    "elapsed_ms": 240.6,
+    "error": null,
+    "links_header_bytes": 1610,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cms-website-builder"
+    ],
+    "headings_header_bytes": 579,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Shopify Store Growth and Website Builder Statistics in South Ossetia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main e-commerce platform used in South Ossetia?"
+      },
+      {
+        "l": 3,
+        "t": "How has mobile shopping changed in South Ossetia by 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c016e7a14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/ecuador/ad-viewability-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 333.0,
+    "error": null,
+    "links_header_bytes": 1490,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/digital-advertising"
+    ],
+    "headings_header_bytes": 550,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Ecuador Digital Advertising Statistics in 2026"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is driving the growth of digital advertising in Ecuador?"
+      },
+      {
+        "l": 3,
+        "t": "How does Ecuador's ad viewability rate compare to regional averages?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c016e7e14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/peru/aws-market-share-statistics",
+    "status": 200,
+    "elapsed_ms": 325.1,
+    "error": null,
+    "links_header_bytes": 1380,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cloud-computing"
+    ],
+    "headings_header_bytes": 523,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Aws Market Share Statistics in Peru (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main factor driving cloud adoption in Peru?"
+      },
+      {
+        "l": 3,
+        "t": "How does AWS market share compare to other providers in Peru?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c017e8a14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/austria/google-ads-cpc-statistics",
+    "status": 200,
+    "elapsed_ms": 239.4,
+    "error": null,
+    "links_header_bytes": 1404,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/ppc-advertising"
+    ],
+    "headings_header_bytes": 562,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Google Ads CPC and PPC Advertising Statistics in Austria (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the average CPC for Google Ads in Austria in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How has PPC advertising expenditure changed in Austria by 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c017e9b14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/marshall-islands/internet-traffic-volume-statistics",
+    "status": 200,
+    "elapsed_ms": 256.3,
+    "error": null,
+    "links_header_bytes": 1703,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/internet-usage"
+    ],
+    "headings_header_bytes": 618,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Internet Traffic Volume Statistics in Marshall Islands (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What factors contributed to the rise in internet traffic in the Marshall Islands?"
+      },
+      {
+        "l": 3,
+        "t": "How does internet speed impact economic activities in the Marshall Islands?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c01ef9b14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/saudi-arabia/ai-model-accuracy-statistics",
+    "status": 200,
+    "elapsed_ms": 253.8,
+    "error": null,
+    "links_header_bytes": 1546,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/ai-machine-learning"
+    ],
+    "headings_header_bytes": 552,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "AI Model Accuracy Statistics in Saudi Arabia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "How has AI impacted Saudi Arabia's economy by 2026?"
+      },
+      {
+        "l": 3,
+        "t": "What are the main sectors benefiting from AI adoption in Saudi Arabia?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c01ef9e14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/yemen/cloud-security-incidents-statistics",
+    "status": 200,
+    "elapsed_ms": 255.9,
+    "error": null,
+    "links_header_bytes": 1530,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/cloud-computing"
+    ],
+    "headings_header_bytes": 527,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Cloud Security Incidents in Yemen (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main causes of cloud security incidents in Yemen?"
+      },
+      {
+        "l": 3,
+        "t": "How can Yemeni organizations improve their cloud security?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c01efa014f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/liechtenstein/website-accessibility-statistics",
+    "status": 200,
+    "elapsed_ms": 252.8,
+    "error": null,
+    "links_header_bytes": 1624,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/website-technology"
+    ],
+    "headings_header_bytes": 616,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Website Accessibility Statistics in Liechtenstein (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main factors contributing to website accessibility improvements in Liechtenstein?"
+      },
+      {
+        "l": 3,
+        "t": "How is Liechtenstein ensuring cybersecurity for its online platforms?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c01ffa314f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/iran/influencer-fraud-rate-statistics",
+    "status": 200,
+    "elapsed_ms": 250.0,
+    "error": null,
+    "links_header_bytes": 1470,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/influencer-marketing"
+    ],
+    "headings_header_bytes": 542,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Influencer Fraud Rate Statistics in Iran (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "How prevalent is influencer fraud in Iran by 2026?"
+      },
+      {
+        "l": 3,
+        "t": "What is the projected market value of influencer marketing in Iran in 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c0258cd14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/belize/pageview-trends-statistics",
+    "status": 200,
+    "elapsed_ms": 220.2,
+    "error": null,
+    "links_header_bytes": 1400,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/web-analytics"
+    ],
+    "headings_header_bytes": 524,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Pageview Trends Statistics in Belize (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main driver of increased web traffic in Belize?"
+      },
+      {
+        "l": 3,
+        "t": "How can businesses improve online engagement in Belize?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c02892814f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/new-zealand/social-media-ad-spend-statistics",
+    "status": 200,
+    "elapsed_ms": 293.4,
+    "error": null,
+    "links_header_bytes": 1595,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-media-marketing"
+    ],
+    "headings_header_bytes": 604,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Social Media Ad Spend & Marketing Statistics in New Zealand (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main social media platform used for advertising in New Zealand?"
+      },
+      {
+        "l": 3,
+        "t": "How has social media ad spend impacted small businesses in New Zealand?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c02892a14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/slovenia/search-ad-revenue-statistics",
+    "status": 200,
+    "elapsed_ms": 229.1,
+    "error": null,
+    "links_header_bytes": 1467,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/search-engine"
+    ],
+    "headings_header_bytes": 531,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Search Ad Revenue Statistics in Slovenia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the main search engine used in Slovenia?"
+      },
+      {
+        "l": 3,
+        "t": "How much do businesses typically spend on search ads in Slovenia?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c02e9ec14f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/tunisia/web-hosting-revenue-statistics",
+    "status": 200,
+    "elapsed_ms": 229.8,
+    "error": null,
+    "links_header_bytes": 1483,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/domain-hosting"
+    ],
+    "headings_header_bytes": 564,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Web Hosting Revenue Statistics in Tunisia (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the projected growth of Tunisia's web hosting industry in 2026?"
+      },
+      {
+        "l": 3,
+        "t": "How many domains are projected to be registered in Tunisia by 2026?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c02e9f114f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/kyrgyzstan/facebook-marketing-statistics",
+    "status": 200,
+    "elapsed_ms": 226.0,
+    "error": null,
+    "links_header_bytes": 1530,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/social-media-marketing"
+    ],
+    "headings_header_bytes": 538,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Facebook Marketing Statistics in Kyrgyzstan (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What is the primary goal of Facebook marketing in Kyrgyzstan?"
+      },
+      {
+        "l": 3,
+        "t": "How effective is Facebook advertising in Kyrgyzstan?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c02e9f214f9-FRA",
+    "cache_status": null
+  },
+  {
+    "url": "https://data.stateglobe.com/rwanda/marketing-automation-spending-statistics",
+    "status": 200,
+    "elapsed_ms": 173.1,
+    "error": null,
+    "links_header_bytes": 1634,
+    "links_count": 31,
+    "links_decoded_ok": true,
+    "links_sample": [
+      "/",
+      "/blog",
+      "/articles",
+      "/analytics",
+      "/category/marketing-automation"
+    ],
+    "headings_header_bytes": 586,
+    "headings_count": 8,
+    "headings_decoded_ok": true,
+    "headings_sample": [
+      {
+        "l": 1,
+        "t": "Marketing Automation Spending Statistics in Rwanda (2026)"
+      },
+      {
+        "l": 2,
+        "t": "Frequently Asked Questions"
+      },
+      {
+        "l": 3,
+        "t": "What are the main benefits of marketing automation for Rwandan businesses?"
+      },
+      {
+        "l": 3,
+        "t": "Which industries in Rwanda are leading in marketing automation adoption?"
+      },
+      {
+        "l": 4,
+        "t": "Methodology"
+      }
+    ],
+    "heading_levels": {
+      "1": 1,
+      "2": 1,
+      "3": 4,
+      "4": 2
+    },
+    "cf_ray": "9f574c02f9fa14f9-FRA",
+    "cache_status": null
+  }
+]

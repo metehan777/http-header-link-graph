@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://data.stateglobe.com",
+  "count": 100,
+  "elapsedSeconds": 1.88,
+  "statuses": {
+    "200": 100
+  },
+  "errors": {},
+  "linksDecoded": 100,
+  "headingsDecoded": 100,
+  "both": 100,
+  "linkBytesP95": 1710,
+  "headingBytesP95": 615
+}
