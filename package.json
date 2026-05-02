@@ -7,6 +7,7 @@
     "dev": "wrangler dev --port 8787",
     "deploy": "wrangler deploy --minify",
     "check": "tsc --noEmit",
+    "test:budget": "node --experimental-strip-types scripts/test-headers-budget.mjs",
     "test:headers": "node scripts/header-crawler.mjs",
     "seo:headers": "python3 scripts/seo_header_probe.py"
   },

@@ -9,9 +9,9 @@ repo: https://github.com/metehan777/http-header-link-graph
 
 # I crawled 65,000 pages of my own site without parsing a single line of HTML
 
-Last week I spoke at **[SEO Week 2026](https://seoweek.org)** in New York City, organized by [iPullRank](https://ipullrank.com), on April 27th and 28th. It was, easily, the most concentrated room of practitioners thinking about where SEO, AEO, and GEO are actually going.
+Last week I spoke at **[SEO Week 2026](https://seoweek.org)** in New York City, organized by [iPullRank](https://ipullrank.com), on April 27th and 30th. It was, easily, the most concentrated room of practitioners thinking about where SEO, AEO, and GEO are actually going.
 
-Somewhere between two talks on day one — I think it was during a hallway conversation about how badly LLM crawlers struggle with rendered DOMs — a stupid question I had been chewing on for months finally crystalized:
+Somewhere between talks on day one — I think it was during a hallway conversation about how badly LLM crawlers struggle with rendered DOMs — a stupid question I had been chewing on for months finally crystalized:
 
 > What is the smallest, fastest, most boring thing a website can do to make itself perfectly understood by every crawler, scraper, and LLM that visits it?
 
@@ -286,11 +286,49 @@ The sub-pages, where the link list was shorter (31 links, 1.5 KB) and the headin
 
 This is exactly the kind of thing you don't want to learn in production.
 
+### The fix: a defensive header-budget module
+
+After watching my own homepage 500 in production, I extracted a tiny, dependency-free TypeScript module that **enforces a combined header-size budget and gracefully truncates the payload before it can blow up your origin**. It's in the repo at [`src/headers.ts`](https://github.com/metehan777/http-header-link-graph/blob/main/src/headers.ts) and works in any modern JS runtime — Cloudflare Workers, Next.js middleware, Deno, Bun, Node 18+.
+
+The interface is minimal:
+
+```ts
+import { attachStructuralHeaders } from "./headers";
+
+return attachStructuralHeaders(
+  new Response(html, { status: 200 }),
+  {
+    url: req.url,
+    links: getInternalLinks(page),  // can be huge, will be capped
+    headings: getHeadings(page),    // can be huge, will be capped
+  }
+  // defaults: 6 KB per header, 12 KB combined
+);
+```
+
+Internally it does three things:
+
+1. **Per-header cap (default 6 KB).** Each list is shrunk in 10% chunks until its base64url-encoded size fits under the per-header budget.
+2. **Combined hard cap (default 12 KB).** If both fit individually but their sum exceeds 12 KB, the heading list is truncated first, then if needed the link list, until the combined size fits.
+3. **Truncation telemetry.** When clipping happens, the response gains `X-Internal-Links-Truncated: 1` and `X-Internal-Links-Original: 230` (and the equivalents for headings), so your monitoring can alert you when budgets are being hit.
+
+I added a stress test in [`scripts/test-headers-budget.mjs`](https://github.com/metehan777/http-header-link-graph/blob/main/scripts/test-headers-budget.mjs) that throws **5,000 links + 5,000 headings** at the function. Result: combined output is 11.4 KB, safely under the 12 KB cap, and the response still ships valid (truncated) payloads. No 500. Ever.
+
+### What's running on data.stateglobe.com right now
+
+After deploying that module and a defensive `combined > 12 KB → truncate` rule, the live site is back to 200s on every page, including the homepage and hubs.
+
+**Important note about the live demo:** to make the experiment safe to run on a real site, I'm intentionally truncating the payload on `data.stateglobe.com` for testing. Hub pages with 200+ links would otherwise need a chunked-header approach (`X-Internal-Links-1`, `X-Internal-Links-2`, …) to ship the full graph. For the public demo, I'd rather you see a clean, 200-OK response with a representative subset of links + headings than a "complete" payload that risks 500ing hubs. Treat the live numbers as a lower bound on what's possible.
+
+If you want to see the full, untruncated technique, run the local Worker in [the repo](https://github.com/metehan777/http-header-link-graph) — small demo site, no truncation needed.
+
+### Read this list before you ship anything
+
 So please, before you ship this on anything that matters:
 
 1. **HTTP response header size limits are real and origin-dependent.** Cloudflare's default response-header limit is around 16 KB. Many origins enforce 8 KB or stricter. If your combined headers don't fit, your origin returns 5xx — to crawlers *and* to humans.
 2. **Hub pages are the danger zone.** A homepage with 200+ links and a 50-item heading map can easily blow past the limit. Test every hub before rollout.
-3. **Always cap the payload defensively.** Set a hard byte limit (e.g. 6 KB per header, 12 KB combined) and gracefully truncate or drop the header when over budget. Better to ship 50 of 200 links than to 500 the page.
+3. **Always cap the payload defensively.** Use [`attachStructuralHeaders`](https://github.com/metehan777/http-header-link-graph/blob/main/src/headers.ts) or roll your own equivalent. Set a hard byte limit (e.g. 6 KB per header, 12 KB combined) and gracefully truncate when over budget. Better to ship 50 of 200 links than to 500 the page.
 4. **Cache it at the edge.** Workers don't cache by default — you have to explicitly `caches.default.put` with a real `Cache-Control`. Otherwise every crawl hits compute, and you'll see 76 RPS instead of 660.
 5. **Edge caches are sticky.** After deploying a new header shape, purge once, otherwise old responses keep getting served.
 6. **HEAD requests are not your friend.** I tried switching the crawler to HEAD to skip body bytes. Cloudflare and many origins respond differently to HEAD, and I lost the headers. Stick with GET; the body is cheap to drop on the client side.
@@ -362,11 +400,12 @@ The crawler does the rest in milliseconds.
 
 A few directions I'm exploring this week:
 
-1. **A defensive header budget library.** A tiny utility that enforces "if combined custom headers > 12 KB, gracefully truncate or omit." Should have shipped with v1; will save someone else my homepage 500.
+1. ~~A defensive header budget library.~~ ✅ **Shipped.** [`src/headers.ts`](https://github.com/metehan777/http-header-link-graph/blob/main/src/headers.ts) — pure, dependency-free, drop into any Worker or middleware. Stress-tested with 5,000 links + 5,000 headings. Will not let your origin 500.
 2. **Topic embeddings as a header.** A 256-dim quantized vector base64'd. LLMs can compare pages without reading them.
 3. **A crawl-budget protocol.** A header that says "I have 65,000 pages, 240 hubs, last full re-index was 14 hours ago." Let crawlers use that to decide how aggressively to revisit.
 4. **A public hosted "header crawler" API.** Take any site you own, pass the base URL, and watch a 99-second full audit happen. The Rust crawler in the repo already does this; I want to host it as a free SaaS for the SEO community.
 5. **AEO-friendly header pack.** `X-Headings` + `X-Page-Topic` + `X-Cite-Snippet` + `X-Page-Summary` — a reference set with sensible defaults and hard size caps.
+6. **Chunked-header support.** `X-Internal-Links-1`, `X-Internal-Links-2`, … so very large hubs can ship the full graph without truncation.
 
 If any of this excites you, the code is on **[GitHub](https://github.com/metehan777/http-header-link-graph)**. Open an issue, send a PR, or just ping me. This is the kind of weekend rabbit hole that is genuinely more fun with collaborators.
 

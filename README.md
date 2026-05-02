@@ -28,7 +28,12 @@ Then a Rust crawler walks the entire graph in seconds without parsing one byte o
 ## What's in this repo
 
 ```
-src/                     Cloudflare Worker (TypeScript) — toy site that emits the headers
+src/
+  headers.ts             ⭐ Drop-in TS module: attachStructuralHeaders()
+                            Enforces a combined byte budget (default 12 KB)
+                            and gracefully truncates so your origin never 500s.
+                            Pure, framework-agnostic, no runtime deps.
+  index.ts               Cloudflare Worker reference implementation that uses it
 rust-probe/              Rust crawler that reads only response headers (reqwest + tokio)
 scripts/
   probe_100.py           100-URL targeted probe; captures BOTH X-Internal-Links + X-Headings
@@ -37,9 +42,39 @@ scripts/
   seo_insights.py        Builds SEO insights from a crawl summary (hubs, orphans,
                          click depth, clusters, payload risk, equity Gini)
   render_link_graph.py   Force-directed D3 graph visualization
+  test-headers-budget.mjs Stress test for the budget cap (5,000 links + headings)
 reports/probe-100/       Sample 100-URL fresh-cache probe output
 blog/                    Long-form post about the experiment
 wrangler.jsonc           Cloudflare Worker config
+```
+
+## The drop-in module
+
+If you only want one thing from this repo, take this:
+
+```ts
+import { attachStructuralHeaders } from "./src/headers";
+
+return attachStructuralHeaders(
+  new Response(html, { status: 200 }),
+  {
+    url: req.url,
+    links: getInternalLinks(page),  // can be huge, will be safely capped
+    headings: getHeadings(page),    // can be huge, will be safely capped
+  }
+  // Defaults: 6 KB per header, 12 KB combined.
+  // Truncated payloads emit X-Internal-Links-Truncated: 1 + X-Internal-Links-Original: N
+  // for monitoring.
+);
+```
+
+It works in **Cloudflare Workers, Next.js middleware, Deno, Bun, Node 18+** — anywhere a `Response` and `TextEncoder` exist.
+
+Verify it never overflows:
+
+```bash
+npm run test:budget
+# 5 passed, 0 failed
 ```
 
 ## Quick start

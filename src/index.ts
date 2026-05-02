@@ -1,51 +1,75 @@
+import { attachStructuralHeaders, type HeadingEntry } from "./headers";
+
 type Page = {
   path: string;
   title: string;
   description: string;
   links: string[];
+  headings: HeadingEntry[];
 };
-
-type LinkHeaderPayload = {
-  v: 1;
-  url: string;
-  links: string[];
-};
-
-const HEADER_NAME = "X-Internal-Links";
-const HEADER_ENCODING = "json+base64url";
-const MAX_HEADER_BYTES = 8 * 1024;
 
 const PAGES: Page[] = [
   {
     path: "/",
     title: "Header Link Demo",
-    description: "A controlled Cloudflare Workers demo for carrying crawl hints in response headers.",
-    links: ["/pricing", "/docs", "/blog", "/contact"]
+    description: "Cloudflare Workers demo for carrying crawl hints in response headers.",
+    links: ["/pricing", "/docs", "/blog", "/contact"],
+    headings: [
+      { l: 1, t: "Header Link Demo" },
+      { l: 2, t: "What this demo proves" },
+      { l: 2, t: "Who this is for" },
+      { l: 3, t: "Site owners" },
+      { l: 3, t: "SEO and AEO tooling" },
+    ],
   },
   {
     path: "/pricing",
     title: "Pricing",
     description: "A pretend pricing page with links to product docs and contact.",
-    links: ["/", "/docs", "/contact"]
+    links: ["/", "/docs", "/contact"],
+    headings: [
+      { l: 1, t: "Pricing" },
+      { l: 2, t: "Plans" },
+      { l: 3, t: "Free" },
+      { l: 3, t: "Team" },
+      { l: 3, t: "Enterprise" },
+    ],
   },
   {
     path: "/docs",
     title: "Docs",
     description: "Implementation notes for reading internal links from headers.",
-    links: ["/", "/blog", "/pricing"]
+    links: ["/", "/blog", "/pricing"],
+    headings: [
+      { l: 1, t: "Docs" },
+      { l: 2, t: "Quick start" },
+      { l: 2, t: "Header schema" },
+      { l: 3, t: "X-Internal-Links" },
+      { l: 3, t: "X-Headings" },
+      { l: 2, t: "Production warnings" },
+    ],
   },
   {
     path: "/blog",
     title: "Blog",
     description: "A pretend blog page that points readers deeper into the site.",
-    links: ["/", "/docs", "/contact"]
+    links: ["/", "/docs", "/contact"],
+    headings: [
+      { l: 1, t: "Blog" },
+      { l: 2, t: "Latest posts" },
+    ],
   },
   {
     path: "/contact",
     title: "Contact",
     description: "A pretend contact page with navigation back into the site.",
-    links: ["/", "/pricing", "/docs"]
-  }
+    links: ["/", "/pricing", "/docs"],
+    headings: [
+      { l: 1, t: "Contact" },
+      { l: 2, t: "Email" },
+      { l: 2, t: "Office" },
+    ],
+  },
 ];
 
 const PAGE_BY_PATH = new Map(PAGES.map((page) => [page.path, page]));
@@ -58,98 +82,79 @@ export default {
       return new Response(CLIENT_PROBE_JS, {
         headers: {
           "content-type": "application/javascript; charset=utf-8",
-          "cache-control": "no-store"
-        }
+          "cache-control": "no-store",
+        },
       });
     }
 
     const page = PAGE_BY_PATH.get(normalizePath(url.pathname));
     if (!page) {
-      return withLinkHeaders(
+      return attachStructuralHeaders(
         new Response(renderNotFound(), {
           status: 404,
-          headers: { "content-type": "text/html; charset=utf-8" }
+          headers: { "content-type": "text/html; charset=utf-8" },
         }),
-        { v: 1, url: url.pathname, links: PAGES.map((item) => item.path) }
+        {
+          url: url.pathname,
+          links: PAGES.map((item) => item.path),
+          headings: [{ l: 1, t: "Not Found" }],
+        }
       );
     }
 
-    const payload = { v: 1, url: page.path, links: page.links } satisfies LinkHeaderPayload;
     const blockMode = url.searchParams.get("block") === "1";
+    const stress = url.searchParams.get("stress") === "1";
+
+    const links = stress ? makeStressLinks() : page.links;
+    const headings = stress ? makeStressHeadings() : page.headings;
 
     if (blockMode) {
-      return withLinkHeaders(
+      return attachStructuralHeaders(
         new Response(renderBlocked(page), {
           status: 403,
-          headers: { "content-type": "text/html; charset=utf-8" }
+          headers: { "content-type": "text/html; charset=utf-8" },
         }),
-        payload
+        { url: page.path, links, headings }
       );
     }
 
-    return withLinkHeaders(
+    return attachStructuralHeaders(
       new Response(renderPage(page), {
-        headers: { "content-type": "text/html; charset=utf-8" }
+        headers: { "content-type": "text/html; charset=utf-8" },
       }),
-      payload
+      { url: page.path, links, headings }
     );
-  }
+  },
 } satisfies ExportedHandler;
 
 function normalizePath(pathname: string): string {
   if (pathname !== "/" && pathname.endsWith("/")) {
     return pathname.slice(0, -1);
   }
-
   return pathname;
 }
 
-function withLinkHeaders(response: Response, payload: LinkHeaderPayload): Response {
-  const headers = new Headers(response.headers);
-  const encoded = encodePayload(payload);
-
-  headers.set(HEADER_NAME, encoded.value);
-  headers.set("X-Internal-Links-Encoding", HEADER_ENCODING);
-  headers.set("X-Internal-Links-Bytes", String(encoded.bytes));
-  headers.set("X-Internal-Links-Count", String(payload.links.length));
-  headers.set("Access-Control-Expose-Headers", [
-    HEADER_NAME,
-    "X-Internal-Links-Encoding",
-    "X-Internal-Links-Bytes",
-    "X-Internal-Links-Count"
-  ].join(", "));
-  headers.append("Vary", "Accept");
-
-  return new Response(response.body, {
-    status: response.status,
-    statusText: response.statusText,
-    headers
-  });
+/**
+ * Pathological inputs to verify the budget cap works:
+ * /?stress=1 should NEVER 500, no matter how big these get.
+ */
+function makeStressLinks(): string[] {
+  const out: string[] = [];
+  for (let i = 0; i < 5000; i++) {
+    out.push(`/very-long-pathname-segment-${i}-for-stress-testing-budget-cap`);
+  }
+  return out;
 }
 
-function encodePayload(payload: LinkHeaderPayload): { value: string; bytes: number } {
-  const encoder = new TextEncoder();
-  let compactPayload = payload;
-  let value = base64UrlEncode(encoder.encode(JSON.stringify(compactPayload)));
-  let bytes = encoder.encode(value).byteLength;
-
-  while (bytes > MAX_HEADER_BYTES && compactPayload.links.length > 0) {
-    compactPayload = { ...compactPayload, links: compactPayload.links.slice(0, -1) };
-    value = base64UrlEncode(encoder.encode(JSON.stringify(compactPayload)));
-    bytes = encoder.encode(value).byteLength;
+function makeStressHeadings(): HeadingEntry[] {
+  const out: HeadingEntry[] = [];
+  for (let i = 0; i < 5000; i++) {
+    out.push({
+      l: ((i % 5) + 2) as 2 | 3 | 4 | 5 | 6,
+      t: `Stress heading ${i} with extra padding to push the size higher than any reasonable header budget`,
+    });
   }
-
-  return { value, bytes };
-}
-
-function base64UrlEncode(bytes: Uint8Array): string {
-  let binary = "";
-
-  for (const byte of bytes) {
-    binary += String.fromCharCode(byte);
-  }
-
-  return btoa(binary).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/u, "");
+  return out;
 }
 
 function renderPage(page: Page): string {
@@ -170,8 +175,11 @@ function renderPage(page: Page): string {
             <h1>${escapeHtml(page.title)}</h1>
             <p>${escapeHtml(page.description)}</p>
             <p>
-              This page returns internal crawl hints in the <code>${HEADER_NAME}</code>
-              response header. The same header is also attached to a simulated blocked response.
+              This page returns internal crawl hints in the <code>X-Internal-Links</code>
+              and <code>X-Headings</code> response headers. The same headers are also
+              attached to a simulated blocked response. Try
+              <a href="${page.path}?stress=1">${page.path}?stress=1</a> to see budget
+              caps prevent a 500.
             </p>
             <div class="actions">
               <a href="${page.path}?block=1">Open simulated 403</a>
@@ -186,7 +194,7 @@ function renderPage(page: Page): string {
           </section>
           <section class="card">
             <h2>Header probe</h2>
-            <pre id="probe-output">Click "Read 403 headers with JS" to fetch ${page.path}?block=1 and decode the header.</pre>
+            <pre id="probe-output">Click "Read 403 headers with JS" to fetch ${page.path}?block=1 and decode the headers.</pre>
           </section>
         </main>
         <script src="/client-probe.js"></script>
@@ -210,7 +218,7 @@ function renderBlocked(page: Page): string {
           <section class="card blocked">
             <p class="eyebrow">Simulated block</p>
             <h1>403</h1>
-            <p>The body is intentionally blocked, but this response still includes <code>${HEADER_NAME}</code>.</p>
+            <p>The body is intentionally blocked, but this response still includes <code>X-Internal-Links</code> and <code>X-Headings</code>.</p>
           </section>
         </main>
       </body>
@@ -232,7 +240,7 @@ function renderNotFound(): string {
         <main>
           <section class="card">
             <h1>404</h1>
-            <p>Unknown page. The response header still points at the known internal pages.</p>
+            <p>Unknown page. The response headers still point at the known internal pages.</p>
           </section>
         </main>
       </body>
@@ -249,10 +257,7 @@ function renderNav(): string {
 }
 
 function labelFor(path: string): string {
-  if (path === "/") {
-    return "Home";
-  }
-
+  if (path === "/") return "Home";
   const page = PAGE_BY_PATH.get(path);
   return page?.title ?? path;
 }
@@ -284,13 +289,18 @@ function decodePayload(value) {
 button?.addEventListener("click", async () => {
   output.textContent = "Fetching blocked response...";
   const response = await fetch(location.pathname + "?block=1", { cache: "no-store" });
-  const header = response.headers.get("${HEADER_NAME}");
-  const payload = decodePayload(header);
-
+  const links = decodePayload(response.headers.get("X-Internal-Links"));
+  const headings = decodePayload(response.headers.get("X-Headings"));
   output.textContent = JSON.stringify({
     status: response.status,
-    headerBytes: response.headers.get("X-Internal-Links-Bytes"),
-    decodedHeader: payload
+    linksBytes: response.headers.get("X-Internal-Links-Bytes"),
+    linksCount: response.headers.get("X-Internal-Links-Count"),
+    linksTruncated: response.headers.get("X-Internal-Links-Truncated"),
+    headingsBytes: response.headers.get("X-Headings-Bytes"),
+    headingsCount: response.headers.get("X-Headings-Count"),
+    headingsTruncated: response.headers.get("X-Headings-Truncated"),
+    links,
+    headings,
   }, null, 2);
 });
 `;
