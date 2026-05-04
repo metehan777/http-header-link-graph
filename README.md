@@ -1,6 +1,6 @@
 # http-header — publishing a site's link graph and heading map in HTTP response headers
 
-> Companion code for the post: ["I crawled 65,000 pages of my own site without parsing a single line of HTML"](https://metehan.ai/blog/header-link-graph) (the idea was sketched at SEO Week 2026, NYC, organized by iPullRank).
+> Companion code for the post: ["I crawled 65,000 pages of my own site without parsing a single line of HTML"]([https://metehan.ai/blog/header-link-graph](https://metehan.ai/blog/http-headers-internal-links)) (the idea was sketched at SEO Week 2026, NYC, organized by iPullRank).
 
 This repo is a working experiment in publishing a page's structural metadata — its outbound internal links and its heading hierarchy — directly inside HTTP response headers, so crawlers, agents, and your own SEO tooling can read them without parsing any HTML.
 
